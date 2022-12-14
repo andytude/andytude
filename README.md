@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andytude
-- 👀 I’m interested in sim racing, headphones, and Survivor.
+- 👀 I’m interested in sim racing, headphones, milsim games, and Survivor.
 - 🌱 I’m currently learning TI-Basic and the Linux kernel.
 - 📫 How to reach me: Steam: FoamerFairplay / Reddit: u/imdangerfish / Discord: edutydna#2328
 
