@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andytude
 - 👀 I’m interested in sim racing, headphones, milsim games, and Survivor.
 - 🌱 I’m currently learning TI-Basic and the Linux kernel.
-- 📫 How to reach me: Steam: FoamerFairplay / Reddit: u/imdangerfish / Discord: edutydna#2328
+- 📫 How to reach me: Steam: FoamerFairplay / Reddit: u/imdangerfish / Discord: andytude#2540
 
 <!---
 andytude/andytude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
